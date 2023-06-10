@@ -1,4 +1,4 @@
-# Keyrxng's Web3 Payment Portal
+ Web3 Payment Portal
 
 ## Stacks Used:
 
